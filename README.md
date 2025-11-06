@@ -2,7 +2,7 @@
 
 A modern, fully responsive Rock-Paper-Scissors game built with HTML, CSS, and JavaScript. This project features a pentagon layout for the game choices, animated results, and a rules modal.
 
-🌐 Live Demo: [View here](https://yoyoooz.github.io/bento-grid/)
+🌐 Live Demo: [View here](https://the-logic-game-rpsls-edition.netlify.app/)
 
 ---
 
